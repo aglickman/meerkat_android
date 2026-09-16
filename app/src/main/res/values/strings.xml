@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Meerkat</string>
+    <string name="camera_permission_rationale">Meerkat needs camera access to detect and track objects in real time.</string>
+    <string name="grant_camera_permission">Grant camera permission</string>
+</resources>
